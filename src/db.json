@@ -1,0 +1,27 @@
+[
+    {
+        "Action": {
+          "1": {
+            "title": "BeeKeeper",
+            "Discription": "One man's brutal campaign for vengeance takes on national stakes after it's revealed he's a former operative of a powerful and clandestine organization known as Beekeepers."
+          },
+          "2": {
+            "title": "Assassin's Club",
+            "Discription": "Morgan Gaines, a former Royal Marines officer turned ruthless assassin who unwittingly enters a deadly game in which each of the six targets is also an assassin assigned to eliminate Morgan."
+          }
+        }
+      },
+      {
+        "Animation": {
+          "1": {
+            "title": "SpongeBob Movie",
+            "Discription": "When Mr. Krabs is accused of stealing King Neptune's crown, SpongeBob and Patrick set out on a wild adventure to prove his innocence."
+          },
+          "2": {
+            "title": "Minions",
+            "Discription": "The story of the Minions begins at the dawn of time. Starting as single-celled yellow organisms, Minions evolve through the ages, perpetually serving the most despicable masters of the time. After accidentally killing off many of their masters"
+          }
+        }
+      }
+
+]

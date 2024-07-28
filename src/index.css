@@ -1,1 +1,11 @@
 
+.logo {
+    width: 8%;
+    height: auto;
+}
+
+.slide-container {
+    width: 80%;
+    height: 70vh;
+    align-items: center;
+}
